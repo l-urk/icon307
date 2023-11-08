@@ -17,6 +17,6 @@ And create two new strings, 3, and 4, and have their values point the s_folderic
 
 Type in the path inside the value data box.
 
-or replace with a cusotom icon.ico ... *Will only work on some versions of windows 10 as an icon file*
+Or replace with a cusotom icon.ico ... *Will only work on some versions of windows 10 as an icon file*
 
-Refresh and you're done
+Refresh (And restart) and you're done.
