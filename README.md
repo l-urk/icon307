@@ -6,8 +6,7 @@ https://www.winhelponline.com/blog/change-open-folder-icon-explorer-and-registry
 
 Or my tutorial here:
 
-download the .dll file from THIS REPOSITORY
-Put the s_foldericon file at C:\s_foldericon
+download the .dll file from THIS REPOSITORY and put the s_foldericon file at C:\s_foldericon
 
 Otherwise , make a new registry key at HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer 
 Call "Shell Icons"
