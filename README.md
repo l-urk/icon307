@@ -13,7 +13,9 @@ Call "Shell Icons"
 
 So you will be at HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Shell Icons
 
-And create two new strings, 3, and 4, and have their values point the s_foldericon.dll . So it will look like C:\s_foldericon.dll
+And create two new strings, 3, and 4, and have their values point the s_foldericon.dll
+
+Type in the path inside the value data box.
 
 or replace with a cusotom icon.ico ... *Will only work on some versions of windows 10 as an icon file*
 
