@@ -1,5 +1,5 @@
 # Shell-Icons-307
-Change all default folder icons to icon 307
+Change all default folder icons in Windows 10/11 to icon 307
 
 Using the tutorial :
 https://www.winhelponline.com/blog/change-open-folder-icon-explorer-and-registry-editor/
