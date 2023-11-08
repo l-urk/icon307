@@ -7,7 +7,7 @@ https://www.winhelponline.com/blog/change-open-folder-icon-explorer-and-registry
 
 
 
-Otherwise , make a new registry folder at HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer called Shell Icons
+Otherwise , make a new registry key at HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer called Shell Icons
 
 
 So you will be at HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Shell Icons
