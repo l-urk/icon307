@@ -1,10 +1,10 @@
 # Shell-Icons-307
 Change all default folder icons in Windows 10/11 to icon 307
 
-Using the tutorial :
+**Using the tutorial :**
 https://www.winhelponline.com/blog/change-open-folder-icon-explorer-and-registry-editor/
 
-Or my tutorial here:
+**Or my tutorial here:**
 
 download the .dll file from THIS REPOSITORY and put the icon307 file at C:\icon307
 
@@ -21,6 +21,6 @@ Or replace with a cusotom icon.ico ... *Will only work on some versions of windo
 
 Refresh (And restart) and you're done.
 
-Or automatically by using the batch script:
+**Or automatically by using the batch script:**
 
 You can run icon307.bat as Administrator to add the registry keys automatically where icon307.dll is located "C:\icon307.dll"
